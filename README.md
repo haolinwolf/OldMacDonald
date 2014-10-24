@@ -89,8 +89,8 @@ Finally, it also came to pass that the cows get a personal name, like Elsie.
 *Create a new class, `NamedCow`, that extends the Cow class, adding a constructor, a field for the Cow's name, and a new function: `getName`.*
 
 The final Farm code to exercise all your modifications is shown here:
-  ```java
-class Farm 
+  ```jav
+aclass Farm 
 {     
   private Animal[] aBunchOfAnimals = new Animal[3];    
   public Farm()    
